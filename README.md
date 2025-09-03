@@ -1,6 +1,7 @@
- Library Management System
-
+Library Management System: 
 A backend application built with Express.js following a 3-layered architecture (Controller, Service, Repository). Implements DTOs, Clean Code principles, Dependency Injection, Repository Pattern, Rate Limiting, Swagger API Docs, and Report generation (CSV/Excel files).
+
+Note That: The Code in development branch
 
 Features
 
@@ -43,6 +44,9 @@ npm run dev
 
 API Documentation :
 http://localhost:3000/api-docs
+
+Note That: The Code in development branch
+
 
 📄 Reports
 
